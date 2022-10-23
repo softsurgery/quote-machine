@@ -1,0 +1,52 @@
+{
+    "0": {
+        "text": "Fall seven times and stand up eight.",
+        "author": "Japanese Proverb",
+        "color": "#E74C3C"
+    },
+    "1": {
+        "text": "Life is what happens to you while you're busy making other plans.",
+        "author": "John Lennon",
+        "color": "#FB6964"
+    },
+    "2":{
+        "text": "When life gives you lemons, make lemonades.",
+        "author": "Common Proverb",
+        "color": "#E6B400"
+    },
+    "3":{
+        "text": "The purpose of our lives is to be happy.",
+        "author": "Dalai Lama",
+        "color": "#ABA250"
+    },
+    "4":{
+        "text": "When you get tired try to rest not quit.",
+        "author": "Banrsey",
+        "color": "#FFA251"
+    },
+    "5":{
+        "text": "Start where you are. Use what you have. Do what you can.",
+        "author": "Arthur Ashe",
+        "color": "#73A857"
+    },
+    "6":{
+        "text":"The two most important days in your life are the day you are born and the day you find out why.",
+        "author":"Mark Twain",
+        "color":"#27AE60"
+    },
+    "7":{
+        "text":"I am not a product of my circumstances. I am a product of my decisions.",
+        "author":"Stephen Covey",
+        "color":"#9B59B6"
+    },
+    "8":{
+        "text":"People often say that motivation doesn't last. Well, neither does bathing. That's why we recommend it daily.",
+        "author":"Zig Ziglar",
+        "color":"#2C3E50"
+    },
+    "9":{
+        "text":"The mind is everything. What you think you become.",
+        "author":"Buddha",
+        "color":"#2C5236"
+    }
+}
